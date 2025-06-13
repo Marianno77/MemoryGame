@@ -121,3 +121,18 @@ Mariusz Bienasz
 This project does not currently have an official license. You may use it at your own risk. For commercial or extended use, please contact the author.
 
 ---
+
+## 🖼️ Zrzuty ekranu / Screenshots
+
+![image](https://github.com/user-attachments/assets/d0a743f0-c253-47c0-96a9-c3fe73747b7a)
+
+![image](https://github.com/user-attachments/assets/98f27423-15f1-4633-bf8b-fd0caa461399)
+
+![image](https://github.com/user-attachments/assets/d0bc8f07-e626-4859-9a77-ac15b616c6e5)
+
+![image](https://github.com/user-attachments/assets/e24ba5de-3fc8-4712-9bb4-a686bb159f75)
+
+![image](https://github.com/user-attachments/assets/27a1f636-baa2-4116-8a02-ecca747f3ba7)
+
+![image](https://github.com/user-attachments/assets/3a0b7fc1-079f-41a7-9e08-fd61de52b679)
+
